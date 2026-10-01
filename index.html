@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Closing Line — the daily form sheet for niche sports</title>
+  <meta name="description" content="Props hit rates, devigged Pinnacle prices, edges, arbitrage and closing-line value for ATP Challenger, WTA, ATP, cricket, darts, esports, NPB, KBO and golf. Specimen copy with simulated data.">
+  <meta name="theme-color" content="#ebe4d1">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2315120d'/%3E%3Cpath d='M5 22h22M5 26h22' stroke='%23ebe4d1' stroke-width='1.5'/%3E%3Ctext x='16' y='19' text-anchor='middle' font-family='Georgia' font-weight='900' font-size='19' fill='%23ebe4d1'%3ECL%3C/text%3E%3C/svg%3E">
+  <script>
+    // apply the saved edition (day / night) before first paint
+    try { var s = JSON.parse(localStorage.getItem('ne:settings') || '{}'); if (s.theme) document.documentElement.dataset.theme = s.theme; } catch (e) {}
+  </script>
+  <link rel="stylesheet" href="assets/css/fonts.css">
+  <link rel="stylesheet" href="assets/css/base.css">
+  <link rel="stylesheet" href="assets/css/shell.css">
+  <link rel="stylesheet" href="assets/css/landing.css">
+  <link rel="stylesheet" href="assets/css/pages.css">
+</head>
+<body>
+  <!-- inked-edge filter for rubber stamps -->
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false"><filter id="rough" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency=".055" numOctaves="2" seed="4" result="t"/><feDisplacementMap in="SourceGraphic" in2="t" scale="2.4"/></filter></svg>
+  <div id="wire"><div class="wrap"><b>Specimen copy</b><span>All odds, players, lines and results are simulated for illustration — live feeds connect in the full build</span><a href="#/pricing">Subscription rates →</a></div></div>
+  <div id="root"></div>
+  <noscript><div style="padding:40px;text-align:center">The Closing Line needs JavaScript enabled.</div></noscript>
+
+  <script src="assets/js/core.js"></script>
+  <script src="assets/js/data-config.js"></script>
+  <script src="assets/js/data-gen.js"></script>
+  <script src="assets/js/tones.js"></script>
+  <script src="assets/js/credits.js"></script>
+  <script src="assets/js/halftone.js"></script>
+  <script src="assets/js/charts.js"></script>
+  <script src="assets/js/ui.js"></script>
+  <script src="assets/js/pages/landing.js"></script>
+  <script src="assets/js/pages/dashboard.js"></script>
+  <script src="assets/js/pages/props.js"></script>
+  <script src="assets/js/pages/odds.js"></script>
+  <script src="assets/js/pages/ev.js"></script>
+  <script src="assets/js/pages/arbs.js"></script>
+  <script src="assets/js/pages/events.js"></script>
+  <script src="assets/js/pages/event.js"></script>
+  <script src="assets/js/pages/clv.js"></script>
+  <script src="assets/js/pages/calc.js"></script>
+  <script src="assets/js/pages/reports.js"></script>
+  <script src="assets/js/pages/misc.js"></script>
+  <script src="assets/js/app.js"></script>
+  <script>NE.app.boot();</script>
+</body>
+</html>

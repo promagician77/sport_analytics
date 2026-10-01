@@ -1,0 +1,90 @@
+{
+ "esports-crowd": {
+  "file": "assets/img/esports-crowd.jpg",
+  "title": "DSCF5811 (47926451792)",
+  "source": "https://commons.wikimedia.org/wiki/File:DSCF5811_(47926451792).jpg",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Esports Kingdom"
+ },
+ "esports-stage": {
+  "file": "assets/img/esports-stage.jpg",
+  "title": "Intel Extreme Masters Kraków 2026",
+  "source": "https://commons.wikimedia.org/wiki/File:Intel_Extreme_Masters_Krak%C3%B3w_2026.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Krigore"
+ },
+ "darts": {
+  "file": "assets/img/darts.jpg",
+  "title": "PDC Semis (24140188636)",
+  "source": "https://commons.wikimedia.org/wiki/File:PDC_Semis_(24140188636).jpg",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "author": "dom fellowes from UK"
+ },
+ "tennis-wta": {
+  "file": "assets/img/tennis-wta.jpg",
+  "title": "WTA 250 Tournaments (51748364208)",
+  "source": "https://commons.wikimedia.org/wiki/File:WTA_250_Tournaments_(51748364208).jpg",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "author": "Chris Czermak"
+ },
+ "tennis-atp": {
+  "file": "assets/img/tennis-atp.jpg",
+  "title": "Wimbledon Centre Court (May 15, 2019)",
+  "source": "https://commons.wikimedia.org/wiki/File:Wimbledon_Centre_Court_(May_15,_2019).jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "GATORFAN2525"
+ },
+ "tennis-chal": {
+  "file": "assets/img/tennis-chal.jpg",
+  "title": "Pista central del Real Club de Tenis de San Sebastián - Donostia",
+  "source": "https://commons.wikimedia.org/wiki/File:Pista_central_del_Real_Club_de_Tenis_de_San_Sebasti%C3%A1n_-_Donostia.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Carlos Alustiza Martínez (Marraski)"
+ },
+ "cricket": {
+  "file": "assets/img/cricket.jpg",
+  "title": "Barsapara Cricket Stadium match under floodlights",
+  "source": "https://commons.wikimedia.org/wiki/File:Barsapara_Cricket_Stadium_match_under_floodlights.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "author": "Javs1233"
+ },
+ "cricket-bbl": {
+  "file": "assets/img/cricket-bbl.jpg",
+  "title": "Melbourne Stars vs Hobart Hurricanes, BBL 05",
+  "source": "https://commons.wikimedia.org/wiki/File:Melbourne_Stars_vs_Hobart_Hurricanes,_BBL_05.jpg",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "werdan"
+ },
+ "kbo": {
+  "file": "assets/img/kbo.jpg",
+  "title": "2018 KBO Play-Off 5th Game 1",
+  "source": "https://commons.wikimedia.org/wiki/File:2018_KBO_Play-Off_5th_Game_1.jpg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "author": "Trainholic"
+ },
+ "npb": {
+  "file": "assets/img/npb.jpg",
+  "title": "Pre-game Activities (3794696304)",
+  "source": "https://commons.wikimedia.org/wiki/File:Pre-game_Activities_(3794696304).jpg",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "author": "JoshBerglund19 from United States"
+ },
+ "golf": {
+  "file": "assets/img/golf.jpg",
+  "title": "Putting green at the Royal Canberra Golf Club 4",
+  "source": "https://commons.wikimedia.org/wiki/File:Putting_green_at_the_Royal_Canberra_Golf_Club_4.JPG",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "author": "Neuroxic"
+ }
+}
